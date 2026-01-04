@@ -133,4 +133,8 @@ Task 1 successfully demonstrates the practical implementation of file handling i
 
 This task lays a strong foundation for future tasks in the internship and enhances confidence in working with file-based applications using the C programming language.
 
+#OUTPUT
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/2155e244-6668-4645-9769-a6aff6be2879" />
+
 
